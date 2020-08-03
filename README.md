@@ -1,2 +1,2 @@
-# app-landing-lombok
+# lombok-club
 App landing page de Lombok Club
